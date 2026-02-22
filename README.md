@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Satyam</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer+in+Progress;DSA+Grinder;Future+Product-Based+Engineer;Building+Daily+🚀&center=true&width=600&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Developer;DSA+Enthusiast;Future+Software+Engineer&center=true&width=500&height=50">
 </p>
 
 ---
