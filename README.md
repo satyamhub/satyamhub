@@ -23,10 +23,15 @@
 ---
 
 ## 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=satyamhub&show_icons=true&theme=tokyonight" />
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=satyamhub&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=satyamhub&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=satyamhub&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
 ---
 
