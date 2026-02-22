@@ -50,3 +50,7 @@
 ## 📫 Connect With Me
 - LinkedIn: (Add your link)
 - Email: (Optional)
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/satyamhub/satyamhub/blob/output/github-contribution-grid-snake-dark.svg)
