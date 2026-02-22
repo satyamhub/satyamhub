@@ -23,13 +23,10 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=satyamhub&show_icons=true&theme=tokyonight" />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=satyamhub&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyamhub&theme=tokyonight" />
-</p>
 
 ---
 
@@ -48,8 +45,8 @@
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: [https://www.linkedin.com/in/satyam-mall-97a9192a1/]
-- Email: (satyaminc.tk@gmail.com)
+- LinkedIn: https://www.linkedin.com/in/satyam-mall-97a9192a1/
+- Email: satyaminc.tk@gmail.com
 
 ## 🐍 Contribution Snake
 
