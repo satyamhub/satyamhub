@@ -48,8 +48,8 @@
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: (Add your link)
-- Email: (Optional)
+- LinkedIn: [https://www.linkedin.com/in/satyam-mall-97a9192a1/]
+- Email: (satyaminc.tk@gmail.com)
 
 ## 🐍 Contribution Snake
 
