@@ -53,4 +53,4 @@
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/satyamhub/satyamhub/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/satyamhub/satyamhub/blob/main/github-contribution-grid-snake-dark.svg)
