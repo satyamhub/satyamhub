@@ -1,16 +1,52 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Satyam</h1>
 
-<!--
-**satyamhub/satyamhub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer+in+Progress;DSA+Grinder;Future+Product-Based+Engineer;Building+Daily+🚀&center=true&width=600&height=50">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🎓 BTech CSE Student
+- 💻 Currently mastering **Data Structures & Algorithms**
+- 🌐 Exploring **Full Stack Web Development**
+- 🎯 Target: Crack Product-Based Companies
+- 📈 Building discipline > motivation
+
+---
+
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,js,html,css,react,nodejs,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=satyamhub&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyamhub&theme=tokyonight" />
+</p>
+
+---
+
+## 📚 Current Focus
+- 🔥 DSA Daily Practice
+- ⚡ Backend Development
+- 🌍 Building Real-World Projects
+
+---
+
+## 🏆 2026 Goals
+- 🚀 300+ DSA Problems
+- 💼 Internship in Product-Based Company
+- 🌐 3 Full-Stack Projects
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: (Add your link)
+- Email: (Optional)
