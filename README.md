@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/satyamhub/satyamhub/main/signature.svg" width="300"/>
-</p>
-
 
 <h1 align="center">Hi 👋, I'm Satyam</h1>
 
