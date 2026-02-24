@@ -51,7 +51,7 @@
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/satyam-mall-97a9192a1/
+- LinkedIn: www.linkedin.com/in/satyamhub
 - Email: satyaminc.tk@gmail.com
 
 ## 🐍 Contribution Snake
