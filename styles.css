@@ -218,6 +218,22 @@ main { position: relative; z-index: 1; }
 
 .skill-title { text-transform: uppercase; letter-spacing: 2px; font-size: 12px; color: var(--muted); }
 
+.skill-logos {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 6px;
+}
+
+.skill-logos img {
+  width: 30px;
+  height: 30px;
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.06);
+  padding: 4px;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+}
+
 .project-card {
   display: grid;
   grid-template-columns: minmax(220px, 34%) 1fr;
