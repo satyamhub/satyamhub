@@ -336,6 +336,49 @@ main { position: relative; z-index: 1; }
   max-width: 900px;
 }
 
+.leetcode-card {
+  background: var(--panel);
+  border: 1px solid var(--border);
+  border-radius: 18px;
+  padding: 18px;
+  display: flex;
+  justify-content: center;
+  overflow: hidden;
+}
+
+.leetcode-card img {
+  width: 100%;
+  max-width: 760px;
+}
+
+.leetcode-list {
+  display: grid;
+  gap: 10px;
+}
+
+.leetcode-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: var(--panel);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  padding: 12px 16px;
+  font-size: 14px;
+}
+
+.tag {
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  padding: 4px 8px;
+  border-radius: 999px;
+  border: 1px solid var(--border);
+}
+
+.tag.ok { color: #34d399; }
+.tag.warn { color: #fbbf24; }
+
 .footer {
   text-align: center;
   padding: 30px 8vw 40px;
