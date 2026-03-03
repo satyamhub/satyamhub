@@ -367,6 +367,13 @@ main { position: relative; z-index: 1; }
   font-size: 14px;
 }
 
+.tags {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
 .tag {
   font-size: 11px;
   text-transform: uppercase;
@@ -378,6 +385,9 @@ main { position: relative; z-index: 1; }
 
 .tag.ok { color: #34d399; }
 .tag.warn { color: #fbbf24; }
+.tag.easy { color: #22d3ee; }
+.tag.medium { color: #f59e0b; }
+.tag.hard { color: #f87171; }
 
 .footer {
   text-align: center;
