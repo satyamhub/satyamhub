@@ -52,7 +52,7 @@ B.Tech CSE student focused on DSA and full‑stack web development.
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/satyamhub
 - Email: satyaminc.tk@gmail.com
-- Resume: https://github.com/satyamhub/satyamhub/blob/main/Satyam_Mall_Resume.pdf
+- Resume: https://satyamhub.github.io/Satyam_Mall_Resume.pdf
 
 ---
 
