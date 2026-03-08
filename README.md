@@ -1,4 +1,4 @@
-# Satyam
+# Satyam Mall
 
 B.Tech CSE student focused on DSA and full‑stack web development.
 
