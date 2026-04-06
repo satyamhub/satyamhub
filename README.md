@@ -24,7 +24,7 @@ Backend-focused full-stack developer and B.Tech CSE student, building practical 
 
 ## 🌟 Featured Projects
 
-### 1) Nestoida
+### 1) nestoida
 Rental listing platform for PGs, flats, hostels, and co-living spaces in Noida with responsive UI and secure data handling.  
 **Stack:** `PHP` `MySQL` `JavaScript` `Tailwind CSS`  
 🔗 Repo: https://github.com/satyamhub/nestoida
