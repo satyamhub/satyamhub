@@ -21,6 +21,7 @@ B.Tech CSE student focused on DSA and full‑stack web development.
 
 ## Projects
 - Nestoida — Rental listing platform for PGs, flats, hostels, and co‑living spaces in Noida. `PHP · JavaScript · HTML · CSS` • [Repo](https://github.com/satyamhub/Nestoida)
+- AKTU DOB FINDER -- Built a web tool to fetch student DOB from Dr. A.P.J. Abdul Kalam Technical University records using Roll numbers. Automated data extraction, added input validation, and designed a simple UI for quick results.
 
 ---
 
