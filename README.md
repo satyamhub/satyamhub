@@ -55,5 +55,3 @@ B.Tech CSE student focused on DSA and full‑stack web development.
 - Resume: https://satyamhub.github.io/Satyam_Mall_Resume.pdf
 
 ---
-
-![Contribution Snake](https://github.com/satyamhub/satyamhub/blob/output/github-contribution-grid-snake-dark.svg)
