@@ -262,6 +262,20 @@ main { position: relative; z-index: 1; }
   box-shadow: 0 18px 40px rgba(0, 0, 0, 0.35);
 }
 
+.project-shot.contain,
+.project-shot.mobile-shot {
+  width: auto;
+  max-width: 100%;
+  max-height: 290px;
+  height: auto;
+  object-fit: contain;
+  justify-self: center;
+  align-self: center;
+  border-radius: 18px;
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  box-shadow: 0 16px 36px rgba(0, 0, 0, 0.4);
+}
+
 .project-body {
   display: flex;
   flex-direction: column;
@@ -427,6 +441,12 @@ main { position: relative; z-index: 1; }
   .project-card, .resume-card { flex-direction: column; align-items: flex-start; }
   .project-card { grid-template-columns: 1fr; }
   .project-shot { width: 100%; height: auto; }
+  .project-shot.contain,
+  .project-shot.mobile-shot {
+    max-height: 360px;
+    width: auto;
+    margin: 0 auto;
+  }
 }
 
 @media (max-width: 600px) {
