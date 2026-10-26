@@ -14,19 +14,6 @@
 
 ---
 
-## 👨‍💻 About Me
-
-- 🎓 **Education:** B.Tech in Computer Science and Engineering at G.L. Bajaj Institute of Technology and Management
-- 💡 **Problem Solving:** Daily DSA practice in C++ with a focus on algorithmic problem‑solving (130+ LeetCode solutions and a growing [DSA notes repo](https://github.com/satyamhub/DSA))
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,ts,html,css,react,nextjs,nodejs,php,python,postgres,prisma,tailwind,git,github,vscode" />
-</p>
-
----
 
 ## 📂 Projects
 
@@ -47,18 +34,6 @@
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=satyamhub&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
-</p>
-
-### Contribution Activity
-<p align="center">
-  <img src="https://raw.githubusercontent.com/satyamhub/satyamhub/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
-</p>
-
----
 
 ## 📬 Contact & Connect
 
