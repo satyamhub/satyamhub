@@ -2,7 +2,6 @@
 
 <p align="center">
   <b>B.Tech CSE student at G.L. Bajaj Institute of Technology and Management</b><br>
-  Focused on Data Structures & Algorithms, full‑stack web development, and backend systems.
 </p>
 
 <p align="center">
@@ -19,10 +18,6 @@
 
 - 🎓 **Education:** B.Tech in Computer Science and Engineering at G.L. Bajaj Institute of Technology and Management
 - 💡 **Problem Solving:** Daily DSA practice in C++ with a focus on algorithmic problem‑solving (130+ LeetCode solutions and a growing [DSA notes repo](https://github.com/satyamhub/DSA))
-- 🚀 **Full-Stack Engineering:** Building and shipping full‑stack projects, from a campus marketplace to hospital appointment management
-- 🤖 **Exploration:** Exploring AI agents, local LLMs, and graph analytics through hackathons and side projects
-- 🎯 **Goal:** Product‑based engineering roles and impactful software engineering work
-
 ---
 
 ## 🛠️ Tech Stack
@@ -62,24 +57,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/satyamhub/satyamhub/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
 </p>
-
----
-
-## 🎯 Current Focus
-
-- 🧩 **DSA Consistency:** Consistent daily problem‑solving in C++
-- 🌐 **Modern Web Stack:** Full‑stack development with Next.js, TypeScript, and Prisma
-- ⚙️ **Backend Fundamentals:** System fundamentals, database design, and API architectures
-- 📦 **Shipping:** Shipping real‑world projects with real users
-
----
-
-## 📌 2026 Goals
-
-- [x] Kickstarted daily problem-solving habit (130+ solved so far)
-- [ ] Solve 300+ DSA problems
-- [ ] Secure an internship in a product‑based company
-- [ ] Build 3 full‑stack projects end‑to‑end
 
 ---
 
